@@ -5,10 +5,10 @@
   technologies: [
                   python-plain,
                 ]
-  cover: /portfolio/assets/images/project_covers/sae-cover.png
+  cover: /Portfolio/assets/images/project_covers/sae-cover.png
   images: [
-    '/portfolio/assets/images/project_images/sae/sae-details.jpg',
-    '/portfolio/assets/images/project_images/sae/sae-weights.png'
+    '/Portfolio/assets/images/project_images/sae/sae-details.jpg',
+    '/Portfolio/assets/images/project_images/sae/sae-weights.png'
   ]
 
 - id: 3
@@ -18,10 +18,10 @@
   technologies: [
                   python-plain,
                 ]
-  cover: /portfolio/assets/images/project_covers/rl-cover.jpg
+  cover: /Portfolio/assets/images/project_covers/rl-cover.jpg
   images: [
-    '/portfolio/assets/images/project_images/rl/rl-1.png',
-    '/portfolio/assets/images/project_images/rl/Game.jpg'
+    '/Portfolio/assets/images/project_images/rl/rl-1.png',
+    '/Portfolio/assets/images/project_images/rl/Game.jpg'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
