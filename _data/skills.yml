@@ -1,0 +1,53 @@
+- name: web
+  skills:
+    - class: html5-plain
+      skill_name: HTML5
+    - class: css3-plain
+      skill_name: CSS3
+    - class: bootstrap-plain
+      skill_name: Bootstrap
+    - class: jquery-plain
+      skill_name: jQuery
+
+- name: languages
+  skills:
+    - class: javascript-plain
+      skill_name: JavaScript
+    - class: python-plain
+      skill_name: Python
+    - class: csharp-plain
+      skill_name: c#
+
+- name: databases
+  skills:
+    - class: mysql-plain
+      skill_name: MySQL
+    - class: sqlserver-plain
+      skill_name: SQL Server
+
+- name: frontend frameworks
+  skills:
+    - class: dotnet-plain
+      skill_name: ASP.NET Core
+    - class: react-plain
+      skill_name: React
+    - class: angularjs-plain
+      skill_name: Angular
+    - class: jekyll-plain
+      skill_name: Jekyll
+
+- name: backend frameworks
+  skills:
+    - class: nodejs-plain
+      skill_name: NodeJS
+
+- name: devops
+  skills:
+    - class: git-plain
+      skill_name: Git
+    - class: github-plain
+      skill_name: GitHub
+    - class: bitbucket-plain
+      skill_name: Bitbucket
+    - class: slack-plain
+      skill_name: Slack
