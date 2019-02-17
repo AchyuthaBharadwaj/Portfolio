@@ -1,20 +1,23 @@
 - id: 2
-  title: Sparse Auto Encoder
-  github_url: https://github.com/AchyuthaBharadwaj/Machine-Learning/tree/master/Sparse%20Auto%20Encoder
-  description: Created a sparse autoencoder and implemented semi-supervised learning with MNIST data.
+  title: Active SLAM and Path Planning for Mobile Robot Navigation
+  url: https://achyuthabharadwaj.github.io/
+  github_url: https://github.com/AchyuthaBharadwaj/Active-SLAM
+  description: Built an agent to explore and map a partially mapped indoor robot environment. Used Active SLAM approach for goal state selection in a real-world environment. Incorporated recovery mechanisms and a finetuning parameter for better accuracy and reduced computational time.
   technologies: [
                   python-plain,
                 ]
-  cover: /Portfolio/assets/images/project_covers/sae-cover.png
+  cover: /Portfolio/assets/images/project_covers/slam-cover.png
   images: [
-    '/Portfolio/assets/images/project_images/sae/sae-details.jpg',
-    '/Portfolio/assets/images/project_images/sae/sae-weights.png'
+    '/Portfolio/assets/images/project_images/slam/slam-1.png',
+    '/Portfolio/assets/images/project_images/slam/slam-2.png',
+    '/Portfolio/assets/images/project_images/slam/slam-3.png'
   ]
 
 - id: 3
   title: Reinforcement Learning - Proximal Policy Optimization Algorithm
-  github_url: https://github.com/wvicioso/hackoverflow
-  description: Built an Agent that learns to play Atari's Pacman game by using Reinforcement learning strategy called Proximal Policy Optimization.
+  github_url: https://github.com/AchyuthaBharadwaj/PPO
+  url: https://achyuthabharadwaj.github.io/
+  description: Built an agent that learns to play Atari’s Pacman game using Reinforcement learning. Used OpenAI gym environment and its observation/reward model to compare PPO algorithm with different Reinforcement Learning algorithms. Introduced new strategies to improve the performance such as, Max-pooling, RandomWalk, etc. to help learn faster.
   technologies: [
                   python-plain,
                 ]
@@ -23,6 +26,20 @@
     '/Portfolio/assets/images/project_images/rl/rl-1.png',
     '/Portfolio/assets/images/project_images/rl/Game.jpg'
   ]
+
+- id: 4
+  title: Stock Market Prediction using Sentiment Analysis of Tweets
+  github_url: https://github.com/imdeepster/Twitter-Stock-Prediction
+  url: https://achyuthabharadwaj.github.io/Stock-Prediction/
+  description: Implemented web crawlers to extract Tweet data and Stock Market Price. NLP techniques like Tokenization, Stop-wordremoval, Stemming are used to perform language modeling and Sentiment Analysis on Twitter data. Compared predictions of stock price fluctuations from different Machine learning techniques such as SVM, Regressions, Deep Networks, etc. The ML models predicted the prices most accurately when Topic Modeling was used. Considering past 5 days of tweet sentiments, we were able to predict change in stock prices with close to 70% accuracy.
+  technologies: [
+                  python-plain,
+                ]
+  cover: /Portfolio/assets/images/project_covers/stock-cover.jpg
+  images: [
+    '/Portfolio/assets/images/project_images/stock/stock-2.JPG'
+  ]
+
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
 #   github_url: https://github.com/LevytsRoman/EngageMe
